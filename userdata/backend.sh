@@ -50,3 +50,5 @@ mysql -u root -p"$DATABASE_PASS" -e "FLUSH PRIVILEGES"
 
 # Restart mariadb-server
 systemctl restart mariadb
+
+##
